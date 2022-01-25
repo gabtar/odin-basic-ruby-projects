@@ -8,7 +8,7 @@
 # that was found in the original string and how many times it was found.
 #
 # Usage:
-# ruby substrings.py <string> [dictionary]
+# ruby substrings.rb <string> [dictionary]
 # <string> The word/string to count number of occurences in dictionary. Mandatory
 # [dictionary] Optional list of space separated words of the dictionary.  e.g word1 word2 word3 ... 
 #

@@ -6,7 +6,7 @@
 # https://en.wikipedia.org/wiki/Caesar_cipher 
 #
 # Usage:
-# ruby caesar_cipher.py <phrase> <key>
+# ruby caesar_cipher.rb <phrase> <key>
 # <phrase> The string to be encoded 
 # <key> The shift value (number bewtween -26 and 26)
 #
